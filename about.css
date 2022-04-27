@@ -1,0 +1,59 @@
+body{
+    margin: auto;
+    padding: auto;
+}
+*{
+   font-family: 'Courier New', Courier, monospace;
+}
+.bg{
+    background-image:url(/background.png);
+    width: auto;
+    height:100vh;
+
+}
+.navbar{
+    padding: 10px;
+    background-color: transparent;
+    display: flex;
+    height: 100px;
+}
+.logo{
+    color: goldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:bold;
+}
+.nav-items{
+    display: flex;
+    list-style: none;
+}
+.items{
+    list-style: none;
+    padding: 12px 15px;
+
+}
+.items a{
+    font-weight: lighter;
+    color:black;
+    padding: 25px;
+    text-decoration: none;
+}
+.btn{
+    font-size: 15px;
+    outline: none;
+    margin-left: auto;
+    height: 30px;
+    margin-top: 27px;
+    background-color:transparent;
+    color:black;
+    border-radius: 30px;
+    width:100px;
+    font-weight: bold;
+}
+.main-content{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}

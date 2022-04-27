@@ -1,0 +1,134 @@
+body {
+  margin: auto;
+  font-family: "Courier New", Courier, monospace;
+}
+* {
+  margin: auto;
+  padding: auto;
+}
+.bg-brown {
+  background-color: navy;
+  color: #fff;
+  width: auto;
+  height: 90vh;
+}
+.navbar {
+    font-weight: lighter;
+  display: flex;
+  padding: 10px;
+}
+.nav-item {
+  display: flex;
+  padding: 15px;
+  list-style: none;
+}
+.items {
+  margin: 0 40px;
+}
+.items a {
+  text-decoration: none;
+  color: #fff;
+}
+.btn {
+    color: #fff;
+  background-color: transparent;
+  font-size: medium;
+  border-radius: 40px;
+  padding: 10px 15px;
+  margin-right: 150px;
+  border: 1px solid white;
+}
+.main-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 85px;
+  margin-right: 0px;
+}
+.mer {
+  display: flex;
+}
+.text {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 30px;
+}
+.has{
+    font-weight: lighter;
+    font-size: 15px;
+}
+.ter {
+  display: inline-block;
+  color: red;
+}
+.den {
+    font-size: 20px;
+  padding: 10px 100px;
+  background-color: green;
+  margin-top: 20px;
+  border-radius: 10px;
+  color: #fff;
+}
+.fineboy {
+  width: 20vw;
+  height: 60vh;
+  margin-right: 0px;
+}
+.bg-baby {
+  background:#ccc; 
+ height: 60vh;
+}
+.texto {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+.tex {
+  margin-top: 250px;
+  color: blue;
+}
+.spam {
+  color: red;
+}
+.card{
+    display: flex;
+    background-color: #fff;
+    color: black;
+    width: fit-content;
+    padding: 10px 30px;
+    justify-content: center;
+    margin-top: 0px;
+    height: 20vh;
+    border: 1px solid blue;
+}
+.theme{
+  margin-top: -50px;
+  padding: 20px;
+  text-align: center;
+  margin: 10px 15px;
+}
+.theme-2{
+  margin-top: -50px;
+  padding: 20px;
+  text-align: center;
+  margin: 10px 15px;
+}
+.theme-3{
+  margin-top: -50px;
+  padding: 20px;
+  text-align: center;
+  margin: 10px 15px;
+}
+.lot{
+  padding: 20px;
+}
+.mad-image{
+  padding: 20px;
+}
+.bg-adult{
+    background-color:transparent;
+    width: auto;
+    height: 100vh;
+    color: black;
+}
+
+}
